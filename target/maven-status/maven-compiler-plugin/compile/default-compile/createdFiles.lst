@@ -1,0 +1,8 @@
+com\library\model\Book.class
+com\library\model\trasnfer\MathOperationInputDTO.class
+com\library\repository\BookRepository.class
+com\library\VirtualLibraryApplication.class
+com\library\controller\BookCatalogController.class
+com\library\utils\NumberUtils.class
+com\library\controller\MathOperationsController.class
+com\library\service\BookService.class
